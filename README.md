@@ -8,9 +8,9 @@
 ### 2. 作业 - 世界地图
 采集全球星巴克门店数据 并将结果利用地图的形式可视化
 
-[作业2链接](actual URL to navigate)
+[作业2链接](https://github.com/CeciChen0121/CS/blob/main/%E5%85%A8%E7%90%83%E6%98%9F%E5%B7%B4%E5%85%8B%E9%97%A8%E5%BA%97%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BE_map11.html)
 
 ### 3. 作业 - 组合图标
 利用faker.value数据 可视化全球五个国家 星巴克和costa 2018-2022年的总营业额
 
-[作业3链接](actual URL to navigate)
+[作业3链接](https://github.com/CeciChen0121/CS/blob/main/timeline_bar.html)
