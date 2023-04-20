@@ -17,4 +17,9 @@
 
 # 计算机科学与入门课程第二次次作业
 
-### 1. 搜索引擎page - 词频统计图
+### 1. 搜索引擎page 
+[作业1链接](https://github.com/CeciChen0121/CS/blob/main/baidu_search_0.html)
+
+### 2. 共现关系图
+[作业2链接](https://github.com/CeciChen0121/CS/blob/main/HW2.html)
+
