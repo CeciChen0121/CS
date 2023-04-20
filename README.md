@@ -14,3 +14,7 @@
 利用faker.value数据 可视化全球五个国家 星巴克和costa 2018-2022年的总营业额
 
 [作业3链接](https://github.com/CeciChen0121/CS/blob/main/timeline_bar.html)
+
+# 计算机科学与入门课程第二次次作业
+
+### 1. 搜索引擎page - 词频统计图
